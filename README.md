@@ -19,6 +19,11 @@ Here are some ideas to get you started:
 
 #### IoT & Software Engineer Student at ENSIAS Rabat
 
+
+<p align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jonas56&theme=algolia&show_icons=true">
+</p>
+
 #### Skills & Experience:
 
 <p align="left">
@@ -61,12 +66,6 @@ Here are some ideas to get you started:
     <a href="#" title="Docker">
     <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" alt="Git" width="auto" height="30"/>
   </a>
-</p>
-
-
-
-<p align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=Jonas56&theme=algolia&show_icons=true">
 </p>
 
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Jonas56)   -->
