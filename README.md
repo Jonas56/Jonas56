@@ -65,9 +65,11 @@ Here are some ideas to get you started:
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonas56&show_icons=true&count_private=true) 
+<p align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jonas56&theme=algolia&show_icons=true">
+</p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Jonas56)  
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Jonas56)   -->
 
 ![Profile views](https://gpvc.arturio.dev/Jonas56)  
 
