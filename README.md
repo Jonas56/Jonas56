@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, I'm Younes - aka Jonas
 
-#### IoT & Software Engineer Student at ENSIAS Rabat
+#### IoT & Software Engineering Student at ENSIAS Rabat
 
 
 <p align=center>
