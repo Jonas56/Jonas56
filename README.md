@@ -70,14 +70,12 @@ Here are some ideas to get you started:
 
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Jonas56)   -->
 
-### 😂 Here is a random joke that'll make you laugh!
+#### 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
---------------------------------------------------------------------
-
-### HITS
+#### HITS
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
 
-### Profile View Counter
+#### Profile View Counter
 ![Profile views](https://gpvc.arturio.dev/Jonas56)  
 
