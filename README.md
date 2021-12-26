@@ -74,6 +74,7 @@ Here are some ideas to get you started:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <br>
+
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
 
 ![Profile views](https://gpvc.arturio.dev/Jonas56)  
