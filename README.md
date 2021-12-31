@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 
 #### 😂 Here is a random joke that'll make you laugh!
 <p align="center">
-  ![Jokes Card](https://readme-jokes.vercel.app/api)
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes card">
 </p>
 
 <!-- <br> -->
