@@ -71,7 +71,9 @@ Here are some ideas to get you started:
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Jonas56)   -->
 
 #### 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<p align="center">
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
+</p>
 
 <!-- <br> -->
 
