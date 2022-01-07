@@ -64,7 +64,7 @@ Here are some ideas to get you started:
     <img src="https://www.awelty.fr/medias/images/mongodb.png" alt="MongoDB" width="auto" height="30"/>
   </a>
   <a href="#" title="Git">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="Git" width="auto" height="30"/>
+    <img src="http://assets.stickpng.com/images/5847f981cef1014c0b5e48be.png" alt="Git" width="auto" height="30"/>
   </a>
     <a href="#" title="Docker">
     <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" alt="Git" width="auto" height="30"/>
