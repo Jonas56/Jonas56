@@ -42,8 +42,8 @@ Here are some ideas to get you started:
   <a href="#" title="Javascript">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" width="auto" height="30"/>
   </a>
-  <a href="#" title="Docker">
-    <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/550px-Java_Logo.svg.png" alt="Git" width="auto" height="30"/>
+  <a href="#" title="Java">
+    <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/550px-Java_Logo.svg.png" alt="Git" width="auto" height="33"/>
   </a>
   <a href="#" title="React">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="auto" height="30"/>
