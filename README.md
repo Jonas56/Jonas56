@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 
 <!-- ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python) -->
 
-<!-- ![Profile views](https://gpvc.arturio.dev/Jonas56)   -->
+![Profile views](https://gpvc.arturio.dev/Jonas56)  
 ![](https://hit.yhype.me/github/profile?user_id=63699364)
-![Profile Views](https://komarev.com/ghpvc/?username=Jonas56)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Jonas56) -->
 
