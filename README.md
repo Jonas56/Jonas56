@@ -17,16 +17,16 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, I'm Younes - aka Jonas
 
-#### IoT & Software Engineering Student at ENSIAS Rabat
+<!-- #### IoT & Software Engineering Student at ENSIAS Rabat -->
 
 
-<p align=center>
+<!-- <p align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=Jonas56&theme=github_dark&show_icons=true&hide_border=true&count_private=true&show_owner=true">
-</p>
+</p> -->
 
-#### Skills & Experience:
+<!-- #### Skills & Experience: -->
 
-<p align="left">
+<!-- <p align="left">
   <a href="#" title="VSCode">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" width="auto" height="30"/>
   </a>
@@ -70,13 +70,13 @@ Here are some ideas to get you started:
     <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" alt="Git" width="auto" height="30"/>
   </a>
 </p>
-
+ -->
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Jonas56)   -->
-
+<!-- 
 #### 😂 Here is a random joke that'll make you laugh!
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes card">
-</p>
+</p> -->
 
 <!-- <br> -->
 
